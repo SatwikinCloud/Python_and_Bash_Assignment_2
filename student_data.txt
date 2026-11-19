@@ -1,0 +1,4 @@
+Python and Bash Assignment
+Name: Satwik Roy
+Course: DevOps
+Topic: File Handling in Python
